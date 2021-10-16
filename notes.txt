@@ -1,0 +1,3 @@
+version
+    - recommend "LTS"
+    - content will be compatible w any (?) node version
