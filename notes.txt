@@ -1,3 +1,9 @@
 version
     - recommend "LTS"
     - content will be compatible w any (?) node version
+
+IMPORTANT TOPICS
+    EVENT LOOPS
+        
+    ASYNC JS
+    EVENTS EMITTER, STREAMS
